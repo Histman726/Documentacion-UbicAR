@@ -1,21 +1,20 @@
 %%%%%%   TIPO DE DOCUMEN%TO: Reporte   %%%%%%
-\documentclass[letterpaper,11pt]{report}
+\documentclass[letterpaper,12pt]{report}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%   PAQUETES   %%%%%%%
-\usepackage[spanish]{babel}
+\usepackage[spanish, es-tabla]{babel}
 \usepackage{graphicx}
 \usepackage[utf8]{inputenc}
+\usepackage{parskip}
+\usepackage[a4paper, top=2.5cm, bottom=2.5cm, left=3cm, right=3cm]{geometry}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%   INICIO DEL DOCUMENTO   %%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
-
-    %%%%%%% Renombrar en espaNol %%%%%%
-    \renewcommand{\tablename}{Tabla} %Escribe Tabla en lugar de Cuadro
-    \renewcommand{\listtablename}{Índice de tablas} %Escribe Indeice de tablas en lugar de Indice de cuadros
 
     %%%%%%%   PORTADA   y RESUMEN   %%%%%%% Este es el contenido agregado de la secci\'on 2.
 
@@ -24,10 +23,6 @@
 
     %%%%%%%   INCLUIR ENCABEZADOS EN INDICES Y CAPITULOS   %%%%%%%
     \pagestyle{headings}
-
-    %%%%%%%   NUMERACION EN CONTENIDO E INDICE DE TABLAS Y FIGURAS   %%%%%%%
-    \pagenumbering{roman} %NUmeros romanos
-    %\setcounter{page}{1} %Comienza en I por default, aquI se puedo modificar
 
     %%%%%%   INCLUIR CONTENIDO, INDICE DE FIGURAS E INDICE DE TABLAS   %%%%%%
     \tableofcontents

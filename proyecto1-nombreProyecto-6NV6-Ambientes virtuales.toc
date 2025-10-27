@@ -1,0 +1,26 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{\numberline {1}Introducción}{1}{}%
+\contentsline {section}{\numberline {1.1}Contexto de trabajo}{1}{}%
+\contentsline {section}{\numberline {1.2}Problemática}{1}{}%
+\contentsline {section}{\numberline {1.3}Trabajo previo}{2}{}%
+\contentsline {subsection}{\numberline {1.3.1}Productos comerciales / soluciones de mercado}{2}{}%
+\contentsline {subsection}{\numberline {1.3.2}Tesis / trabajos académicos}{2}{}%
+\contentsline {subsection}{\numberline {1.3.3}Artículos / revisiones científicas}{3}{}%
+\contentsline {subsection}{\numberline {1.3.4}Implicaciones para UbicAR}{3}{}%
+\contentsline {section}{\numberline {1.4}Solución propuesta}{4}{}%
+\contentsline {subsection}{\numberline {1.4.1}Diferencias respecto al trabajo previo}{4}{}%
+\contentsline {subsection}{\numberline {1.4.2}Conclusión}{5}{}%
+\contentsline {chapter}{\numberline {2}Marco teórico}{6}{}%
+\contentsline {section}{\numberline {2.1}Unity}{6}{}%
+\contentsline {section}{\numberline {2.2}Vuforia}{6}{}%
+\contentsline {section}{\numberline {2.3}Realidad aumentada}{6}{}%
+\contentsline {chapter}{\numberline {3}Requerimientos}{7}{}%
+\contentsline {section}{\numberline {3.1}Funcionales}{7}{}%
+\contentsline {section}{\numberline {3.2}No funcionales}{7}{}%
+\contentsline {chapter}{\numberline {4}Arquitectura 4+1}{8}{}%
+\contentsline {section}{\numberline {4.1}Vista de escenarios}{8}{}%
+\contentsline {section}{\numberline {4.2}Vista de procesos}{8}{}%
+\contentsline {section}{\numberline {4.3}Vista lógica}{8}{}%
+\contentsline {section}{\numberline {4.4}Vista física}{8}{}%
+\contentsline {section}{\numberline {4.5}Vista de despliegue}{8}{}%
+\contentsline {section}{\numberline {4.6}Vista de datos}{8}{}%

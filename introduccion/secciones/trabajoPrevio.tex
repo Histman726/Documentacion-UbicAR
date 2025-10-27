@@ -1,3 +1,65 @@
 \section{Trabajo previo}
 
-Describir el trabajo actual que se ha realizado en el contexto de trabajo del proyecto: Productos comerciales, Tesis, artículos
+\subsection{Productos comerciales / soluciones de mercado}
+
+\begin{itemize}
+	
+	\item \textbf{Navigine:} ofrece una solución de navegación interior con AR (“AR Indoor Navigation”) que permite escanear un código QR para acceder a un mapa AR del edificio y obtener rutas interactivas. 
+	
+	\item \textbf{ARway:} es otra plataforma “white-label” que facilita la creación de mapas interiores + navegación + contenidos AR sin necesidad de codificar, pensada para espacios grandes como campus. 
+	
+	\item \textbf{NavBuddy:} ofrece navegación interior para campus (“Indoor navigation for campuses… real-time indoor maps, AR directions, floor-to-floor guidance”) orientada a estudiantes, laboratorios, oficinas, etc.
+	
+\end{itemize}
+
+Estas soluciones comerciales muestran que ya existe un mercado -y una necesidad- para la navegación interior en campus universitarios. Sin embargo, muchas veces se centran en la parte técnica de mapeo y rutas, menos en la integración con horarios de clases, aulas, profesores, etc., tal como plantea UbicAR.
+
+\subsection{Tesis / trabajos académicos} 
+
+\begin{itemize}
+	
+	\item En la tesis “Path planning in augmented reality indoor environments” de Karl Platzer (2017) se propone un algoritmo de planificación de ruta asistido por el campo de visión (FOV) del dispositivo AR, para que la ruta esté siempre dentro del FOV del usuario.
+	
+	\item En “Indoor Navigation with Augmented Reality” (2021) de Zi Wei Ong se construye un sistema de navegación interior en un campus utilizando AR, marcadores, WiFi, BLE, etc., y evalúa técnicas de posicionamiento, coste, precisión.
+	
+	\item En “Indoor Navigation System Using Annotated Maps in Mobile Augmented Reality” de Shu En Chia (2019) se presenta un prototipo de app AR para navegación interior basada en mapas anotados, donde el usuario escanea una imagen de referencia y luego se orienta en la ruta. 
+	
+\end{itemize}
+
+Estos trabajos académicos han explorado tecnologías clave para tu proyecto: localización interior, AR, mapeado, rutas en espacios complejos. Es valioso que UbicAR aproveche esas lecciones (por ejemplo, qué técnicas de localización usar, cómo presentar rutas al usuario).
+
+\newpage
+
+\subsection{Artículos / revisiones científicas}
+
+\begin{itemize}
+	
+	\item “Use of Augmented Reality in Human Wayfinding: A Systematic Review” (2023) de Zhiwen Qiu y otros examina 65 estudios sobre AR en navegación humana, analizando estado-del-arte, experiencias de usuario, impacto cognitivo, etc. Concluye que AR tiene gran potencial pero los resultados aún son mixtos. 
+	
+	\item “An ARCore-Based Augmented Reality Campus Navigation System” (2021) presenta un sistema que integra navegación interior y exterior en un campus (“Lingang campus of Shanghai University of Electric Power”) usando ARCore y odometría visual inercial. 
+	
+	\item En “Indoor Space Recognition using Deep Convolutional Neural Network: A Case Study at MIT Campus” se muestra cómo usar Deep CNN para reconocer espacios interiores a partir de una imagen para navegación.
+	
+\end{itemize}
+
+Estos artículos ofrecen evidencia de que tu proyecto tiene contexto: la combinación AR + navegación interior ya es investigada, hay hallazgos relevantes (ventajas, desafíos). Es importante que UbicAR tenga en cuenta esos desafíos: precisión de localización, experiencia de usuario, integración de ambientes múltiples (edificios, pisos).
+
+\subsection{Implicaciones para UbicAR} 
+
+A partir de lo anterior, algunas conclusiones útiles para tu proyecto:
+
+\begin{itemize}
+	
+	\item Es viable tecnológicamente implementar navegación interior en campus usando AR y localización, pero la precisión (especialmente en interiores) sigue siendo un reto.
+	
+	\item La experiencia de usuario es muy relevante: el modo en que se muestran rutas, se escanean marcadores, se integran aulas/profesores puede hacer la diferencia.
+	
+	\item Debes investigar la tecnología de localización interior: marcadores, BLE, WiFi, imagen/visión (VPS), SLAM. Ejemplos: el estudio de Chia, el de Platzer, el de Ong.
+	
+	\item También debes considerar cómo mapear múltiples edificios/pisos, ya que muchos trabajos sólo cubren uno o dos pisos. Ejemplo: “XAMKNAV: AR-based multi-floor indoor navigation prototype”.
+	
+	\item Finalmente, la integración con datos académicos (salones, horarios, profesores) es un ámbito que parece menos cubierto en la literatura, lo cual es buena oportunidad.
+	
+\end{itemize}
+
+\newpage
