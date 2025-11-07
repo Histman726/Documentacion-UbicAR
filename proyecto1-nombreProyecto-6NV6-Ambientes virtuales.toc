@@ -12,15 +12,23 @@
 \contentsline {subsection}{\numberline {1.4.2}Conclusión}{5}{}%
 \contentsline {chapter}{\numberline {2}Marco teórico}{6}{}%
 \contentsline {section}{\numberline {2.1}Unity}{6}{}%
-\contentsline {section}{\numberline {2.2}Vuforia}{6}{}%
-\contentsline {section}{\numberline {2.3}Realidad aumentada}{6}{}%
-\contentsline {chapter}{\numberline {3}Requerimientos}{7}{}%
-\contentsline {section}{\numberline {3.1}Funcionales}{7}{}%
-\contentsline {section}{\numberline {3.2}No funcionales}{7}{}%
-\contentsline {chapter}{\numberline {4}Arquitectura 4+1}{8}{}%
-\contentsline {section}{\numberline {4.1}Vista de escenarios}{8}{}%
-\contentsline {section}{\numberline {4.2}Vista de procesos}{8}{}%
-\contentsline {section}{\numberline {4.3}Vista lógica}{8}{}%
-\contentsline {section}{\numberline {4.4}Vista física}{8}{}%
-\contentsline {section}{\numberline {4.5}Vista de despliegue}{8}{}%
-\contentsline {section}{\numberline {4.6}Vista de datos}{8}{}%
+\contentsline {subsection}{\numberline {2.1.1}Ventajas de usar Unity para AR}{6}{}%
+\contentsline {subsection}{\numberline {2.1.2}Limitaciones de Unity para AR}{7}{}%
+\contentsline {section}{\numberline {2.2}Vuforia}{7}{}%
+\contentsline {subsection}{\numberline {2.2.1}Funcionalidades}{7}{}%
+\contentsline {subsection}{\numberline {2.2.2}Comparación con otros SDKs}{8}{}%
+\contentsline {section}{\numberline {2.3}Realidad aumentada}{8}{}%
+\contentsline {subsection}{\numberline {2.3.1}Evolución de la realidad aumentada}{9}{}%
+\contentsline {subsection}{\numberline {2.3.2}Elementos de la realidad aumentada}{9}{}%
+\contentsline {subsection}{\numberline {2.3.3}Tipos de realidad aumentada}{9}{}%
+\contentsline {subsection}{\numberline {2.3.4}Casos de uso}{10}{}%
+\contentsline {chapter}{\numberline {3}Requerimientos}{11}{}%
+\contentsline {section}{\numberline {3.1}Funcionales}{11}{}%
+\contentsline {section}{\numberline {3.2}No funcionales}{11}{}%
+\contentsline {chapter}{\numberline {4}Arquitectura 4+1}{12}{}%
+\contentsline {section}{\numberline {4.1}Vista de escenarios}{12}{}%
+\contentsline {section}{\numberline {4.2}Vista de procesos}{12}{}%
+\contentsline {section}{\numberline {4.3}Vista lógica}{12}{}%
+\contentsline {section}{\numberline {4.4}Vista física}{12}{}%
+\contentsline {section}{\numberline {4.5}Vista de despliegue}{12}{}%
+\contentsline {section}{\numberline {4.6}Vista de datos}{12}{}%

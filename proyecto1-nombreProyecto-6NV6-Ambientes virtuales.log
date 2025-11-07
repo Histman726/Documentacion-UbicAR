@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.8)  27 OCT 2025 10:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.8)  7 NOV 2025 17:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -125,12 +125,32 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@dimlist=\toks21
 
 (C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
 
+(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen152
+\ar@mcellbox=\box51
+\extrarowheight=\dimen153
+\NC@list=\toks22
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box52
+)
+\TX@col@width=\dimen154
+\TX@old@table=\dimen155
+\TX@old@col=\dimen156
+\TX@target=\dimen157
+\TX@delta=\dimen158
+\TX@cols=\count269
+\TX@ftn=\toks23
+)
 (C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count269
-\l__pdf_internal_box=\box51
+\l__color_backend_stack_int=\count270
+\l__pdf_internal_box=\box53
 ) (proyecto1-nombreProyecto-6NV6-Ambientes virtuales.aux (portada.aux)
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
@@ -140,37 +160,37 @@ Package babel Info: 'spanish' activates 'spanish' shorthands.
 (resumen.aux))
 \openout1 = `"proyecto1-nombreProyecto-6NV6-Ambientes virtuales.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Info: Redefining \. on input line 17.
-LaTeX Info: Redefining \% on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
 
 (C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count270
-\scratchdimen=\dimen152
-\scratchbox=\box52
-\nofMPsegments=\count271
-\nofMParguments=\count272
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count273
-\MPscratchDim=\dimen153
-\MPnumerator=\count274
-\makeMPintoPDFobject=\count275
-\everyMPtoPDFconversion=\toks23
+\scratchcounter=\count271
+\scratchdimen=\dimen159
+\scratchbox=\box54
+\nofMPsegments=\count272
+\nofMParguments=\count273
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count274
+\MPscratchDim=\dimen160
+\MPnumerator=\count275
+\makeMPintoPDFobject=\count276
+\everyMPtoPDFconversion=\toks25
 )
 (C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -307,15 +327,45 @@ LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
  [5]
 Cap\'{\i }tulo 2.
-(marcoTeorico/secciones/unity.tex) (marcoTeorico/secciones/vuforia.tex)
-(marcoTeorico/secciones/realidadAumentada.tex))
-(requerimientos/requerimientos.tex [6
+(marcoTeorico/secciones/unity.tex [6
 
-]
+]) (marcoTeorico/secciones/vuforia.tex
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
+
+[7]) (marcoTeorico/secciones/realidadAumentada.tex
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
+ [8]
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--34
+
+ []
+
+
+Overfull \hbox (0.28822pt too wide) in paragraph at lines 41--44
+[]\OT1/cmr/bx/n/12 Educaci^^Son: \OT1/cmr/m/n/12 La reali-dad au-men-ta-da se u
+ti-li-za pa-ra crear ex-pe-rien-cias de apren-
+ []
+
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
+[9])) (requerimientos/requerimientos.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [10]
 Cap\'{\i }tulo 3.
 (requerimientos/secciones/funcionales.tex)
-(requerimientos/secciones/noFuncionales.tex))
-(arquitectura4+1/arquitectura4+1.tex [7
+(requerimientos/secciones/noFuncionales.tex
+Underfull \hbox (badness 10000) in paragraph at lines 12--1
+
+ []
+
+)) (arquitectura4+1/arquitectura4+1.tex [11
 
 ]
 Cap\'{\i }tulo 4.
@@ -323,7 +373,7 @@ Cap\'{\i }tulo 4.
 (arquitectura4+1/secciones/procesos.tex) (arquitectura4+1/secciones/logica.tex)
 (arquitectura4+1/secciones/fisica.tex)
 (arquitectura4+1/secciones/despliegue.tex) (arquitectura4+1/secciones/datos.tex
-)) [8
+)) [12
 
 ] (proyecto1-nombreProyecto-6NV6-Ambientes virtuales.aux (portada.aux)
 LaTeX Info: Redefining \. on input line 9.
@@ -341,22 +391,22 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 4373 strings out of 474485
- 79884 string characters out of 5743734
- 1936542 words of memory out of 5000000
- 26546 multiletter control sequences out of 15000+600000
+ 4498 strings out of 474485
+ 81883 string characters out of 5743734
+ 1937542 words of memory out of 5000000
+ 26665 multiletter control sequences out of 15000+600000
  563281 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,622b,365s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,9n,65p,622b,382s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmbx12.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmr12.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmr17.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/
 type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on "proyecto1-nombreProyecto-6NV6-Ambientes virtuales.pdf" (13 p
-ages, 99048 bytes).
+Output written on "proyecto1-nombreProyecto-6NV6-Ambientes virtuales.pdf" (17 p
+ages, 113972 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
+ 78 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
