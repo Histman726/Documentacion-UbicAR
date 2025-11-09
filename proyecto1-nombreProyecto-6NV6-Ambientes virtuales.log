@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.8)  8 NOV 2025 21:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.8)  8 NOV 2025 23:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -300,15 +300,19 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3.
-)
-\tf@toc=\write3
-\openout3 = `"proyecto1-nombreProyecto-6NV6-Ambientes virtuales.toc"'.
-
  [1
 
 
 
-]
+])
+\tf@toc=\write3
+\openout3 = `"proyecto1-nombreProyecto-6NV6-Ambientes virtuales.toc"'.
+
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+Package babel Info: 'spanish' activates 'spanish' shorthands.
+(babel)             Reported on input line 33.
+ [2]
 (proyecto1-nombreProyecto-6NV6-Ambientes virtuales.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -316,7 +320,7 @@ LaTeX Info: Redefining \% on input line 1.
 \tf@lof=\write4
 \openout4 = `"proyecto1-nombreProyecto-6NV6-Ambientes virtuales.lof"'.
 
- [2
+ [3
 
 ]
 (proyecto1-nombreProyecto-6NV6-Ambientes virtuales.lot
@@ -326,7 +330,7 @@ LaTeX Info: Redefining \% on input line 1.
 \tf@lot=\write5
 \openout5 = `"proyecto1-nombreProyecto-6NV6-Ambientes virtuales.lot"'.
 
- [3
+ [4
 
 ]
 (introduccion/introduccion.tex
@@ -339,8 +343,6 @@ Cap\'{\i }tulo 1.
 ]
 LaTeX Info: Redefining \. on input line 31.
 LaTeX Info: Redefining \% on input line 31.
-Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 31.
  [2]
 LaTeX Info: Redefining \. on input line 65.
 LaTeX Info: Redefining \% on input line 65.
@@ -364,42 +366,181 @@ LaTeX Info: Redefining \% on input line 21.
 LaTeX Info: Redefining \. on input line 15.
 LaTeX Info: Redefining \% on input line 15.
  [8]
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--34
+Underfull \hbox (badness 10000) in paragraph at lines 28--35
 
  []
 
-
-Overfull \hbox (0.28822pt too wide) in paragraph at lines 41--44
+LaTeX Info: Redefining \. on input line 35.
+LaTeX Info: Redefining \% on input line 35.
+[9]
+Overfull \hbox (0.28822pt too wide) in paragraph at lines 42--45
 []\OT1/cmr/bx/n/12 Educaci^^Son: \OT1/cmr/m/n/12 La reali-dad au-men-ta-da se u
 ti-li-za pa-ra crear ex-pe-rien-cias de apren-
  []
 
-LaTeX Info: Redefining \. on input line 44.
-LaTeX Info: Redefining \% on input line 44.
-[9])) (requerimientos/requerimientos.tex
+(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/tools\.tex
+File ignored)) (marcoTeorico/secciones/IPN.tex
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+ [10]
+Overfull \hbox (5.26529pt too wide) in paragraph at lines 35--36
+[]\OT1/cmr/m/n/12 Escuela Su-pe-rior de Co-mer-cio y Ad-mi-nis-tra-ci^^Son (ES-
+CA), uni-da-des San-to Tom^^Sas
+ []
+
+LaTeX Info: Redefining \. on input line 38.
+LaTeX Info: Redefining \% on input line 38.
+[11]
+LaTeX Info: Redefining \. on input line 68.
+LaTeX Info: Redefining \% on input line 68.
+ [12]) (marcoTeorico/secciones/Upiicsa.tex
+(marcoTeorico/secciones/escuela/Edificios.tex
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+ [13]
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+ [14])
+(marcoTeorico/secciones/escuela/Carreras.tex
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+ [15]
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
+ [16]
+LaTeX Info: Redefining \. on input line 93.
+LaTeX Info: Redefining \% on input line 93.
+ [17]
+Underfull \hbox (badness 5652) in paragraph at lines 140--140
+[]|\OT1/cmr/m/n/12 Ingenier^^S^^Pa en Sis-te-mas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+\OT1/cmr/m/n/12 Ad-mi-nis-tra-ci^^Son In-dus-
+ []
+
+
+Underfull \hbox (badness 4518) in paragraph at lines 140--140
+[]|\OT1/cmr/m/n/12 Doctorado en Cien-cias
+ []
+
+) (marcoTeorico/secciones/escuela/Celex.tex
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+ [18]
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
+ [19]
+Underfull \hbox (badness 3701) in paragraph at lines 72--72
+[]|\OT1/cmr/m/n/12 TOEFL, IELTS, Cam-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+[]|\OT1/cmr/m/n/12 JLPT (Japanese-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+\OT1/cmr/m/n/12 Language Pro-fi-ciency
+ []
+
+) (marcoTeorico/secciones/escuela/Actividades culturales y deportivas.tex
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+
+[20]
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
+ [21]) (marcoTeorico/secciones/escuela/Servicios estudiantiles.tex
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+ [22]
+Underfull \hbox (badness 2735) in paragraph at lines 57--57
+\OT1/cmr/m/n/12 co y di-gi-tal, pr^^Sesta-mo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+[]|\OT1/cmr/m/n/12 Programas de apo-yo
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 57--57
+\OT1/cmr/m/n/12 econ^^Somi-co y mo-vi-li-dad
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 57--57
+\OT1/cmr/m/n/12 sor^^S^^Pa per-so-na-li-za-da por
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+[]|\OT1/cmr/m/n/12 Apoyar el de-sa-rro-llo
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 57--57
+[]|\OT1/cmr/m/n/12 Fortalecer la for-ma-ci^^Son
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+[]|\OT1/cmr/m/n/12 Promover el bien-es-tar
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+[]|\OT1/cmr/m/n/12 Atenci^^Son emo-cio-nal y
+ []
+
+
+Underfull \hbox (badness 3354) in paragraph at lines 57--57
+\OT1/cmr/m/n/12 apo-yo en la to-ma de
+ []
+
+
+Underfull \hbox (badness 7796) in paragraph at lines 57--57
+[]|\OT1/cmr/m/n/12 Mejorar la es-ta-bi-li-dad
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 57--57
+\OT1/cmr/m/n/12 emo-cio-nal y vo-ca-cio-nal
+ []
+
+LaTeX Info: Redefining \. on input line 58.
+LaTeX Info: Redefining \% on input line 58.
+[23]) (marcoTeorico/secciones/escuela/Rutas de evacuacion.tex
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ [24])))
+(requerimientos/requerimientos.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [10]
+ [25]
 Cap\'{\i }tulo 3.
 (requerimientos/secciones/funcionales.tex)
 (requerimientos/secciones/noFuncionales.tex))
-(arquitectura4+1/arquitectura4+1.tex [11
+(arquitectura4+1/arquitectura4+1.tex [26
 
 ]
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [12]
+ [27]
 Cap\'{\i }tulo 4.
 (arquitectura4+1/secciones/escenarios.tex)
 (arquitectura4+1/secciones/procesos.tex) (arquitectura4+1/secciones/logica.tex)
 (arquitectura4+1/secciones/fisica.tex)
 (arquitectura4+1/secciones/despliegue.tex) (arquitectura4+1/secciones/datos.tex
-)) [13
+)) [28
 
 ] (proyecto1-nombreProyecto-6NV6-Ambientes virtuales.aux (portada.aux)
 LaTeX Info: Redefining \. on input line 9.
@@ -417,22 +558,24 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 4673 strings out of 474485
- 84458 string characters out of 5743734
- 1941542 words of memory out of 5000000
- 26833 multiletter control sequences out of 15000+600000
- 563281 words of font info for 53 fonts, out of 8000000 for 9000
+ 4766 strings out of 474485
+ 88699 string characters out of 5743734
+ 1948542 words of memory out of 5000000
+ 26896 multiletter control sequences out of 15000+600000
+ 563965 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,8n,65p,622b,382s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmbx12.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmr12.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmr17.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on "proyecto1-nombreProyecto-6NV6-Ambientes virtuales.pdf" (18 p
-ages, 117407 bytes).
+ 57i,11n,66p,633b,432s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\monic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1200.pk><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmr12.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr17.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/monic/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "proyecto1-nombreProyecto-6NV6-Ambientes virtuales.pdf" (34 p
+ages, 170463 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
+ 143 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
