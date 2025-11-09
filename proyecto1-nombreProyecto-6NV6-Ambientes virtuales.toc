@@ -24,11 +24,11 @@
 \contentsline {subsection}{\numberline {2.3.4}Casos de uso}{10}{}%
 \contentsline {chapter}{\numberline {3}Requerimientos}{11}{}%
 \contentsline {section}{\numberline {3.1}Funcionales}{11}{}%
-\contentsline {section}{\numberline {3.2}No funcionales}{11}{}%
-\contentsline {chapter}{\numberline {4}Arquitectura 4+1}{12}{}%
-\contentsline {section}{\numberline {4.1}Vista de escenarios}{12}{}%
-\contentsline {section}{\numberline {4.2}Vista de procesos}{12}{}%
-\contentsline {section}{\numberline {4.3}Vista lógica}{12}{}%
-\contentsline {section}{\numberline {4.4}Vista física}{12}{}%
-\contentsline {section}{\numberline {4.5}Vista de despliegue}{12}{}%
-\contentsline {section}{\numberline {4.6}Vista de datos}{12}{}%
+\contentsline {section}{\numberline {3.2}No funcionales}{12}{}%
+\contentsline {chapter}{\numberline {4}Arquitectura 4+1}{13}{}%
+\contentsline {section}{\numberline {4.1}Vista de escenarios}{13}{}%
+\contentsline {section}{\numberline {4.2}Vista de procesos}{13}{}%
+\contentsline {section}{\numberline {4.3}Vista lógica}{13}{}%
+\contentsline {section}{\numberline {4.4}Vista física}{13}{}%
+\contentsline {section}{\numberline {4.5}Vista de despliegue}{13}{}%
+\contentsline {section}{\numberline {4.6}Vista de datos}{13}{}%
