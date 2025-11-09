@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.8)  7 NOV 2025 17:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.8)  8 NOV 2025 21:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -146,11 +146,38 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \TX@cols=\count269
 \TX@ftn=\toks23
 )
+(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count270
+\float@exts=\toks24
+\float@box=\box53
+\@float@everytoks=\toks25
+\@floatcapt=\box54
+)
+(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip52
+\LTright=\skip53
+\LTpre=\skip54
+\LTpost=\skip55
+\LTchunksize=\count271
+\LTcapwidth=\dimen159
+\LT@head=\box55
+\LT@firsthead=\box56
+\LT@foot=\box57
+\LT@lastfoot=\box58
+\LT@gbox=\box59
+\LT@cols=\count272
+\LT@rows=\count273
+\c@LT@tables=\count274
+\c@LT@chunks=\count275
+\LT@p@ftn=\toks26
+)
 (C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count270
-\l__pdf_internal_box=\box53
+\l__color_backend_stack_int=\count276
+\l__pdf_internal_box=\box60
 ) (proyecto1-nombreProyecto-6NV6-Ambientes virtuales.aux (portada.aux)
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
@@ -160,37 +187,37 @@ Package babel Info: 'spanish' activates 'spanish' shorthands.
 (resumen.aux))
 \openout1 = `"proyecto1-nombreProyecto-6NV6-Ambientes virtuales.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Info: Redefining \. on input line 21.
+LaTeX Info: Redefining \% on input line 21.
 
 (C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count271
-\scratchdimen=\dimen159
-\scratchbox=\box54
-\nofMPsegments=\count272
-\nofMParguments=\count273
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count274
-\MPscratchDim=\dimen160
-\MPnumerator=\count275
-\makeMPintoPDFobject=\count276
-\everyMPtoPDFconversion=\toks25
+\scratchcounter=\count277
+\scratchdimen=\dimen160
+\scratchbox=\box61
+\nofMPsegments=\count278
+\nofMParguments=\count279
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count280
+\MPscratchDim=\dimen161
+\MPnumerator=\count281
+\makeMPintoPDFobject=\count282
+\everyMPtoPDFconversion=\toks28
 )
 (C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -360,12 +387,8 @@ LaTeX Info: Redefining \% on input line 1.
  [10]
 Cap\'{\i }tulo 3.
 (requerimientos/secciones/funcionales.tex)
-(requerimientos/secciones/noFuncionales.tex
-Underfull \hbox (badness 10000) in paragraph at lines 12--1
-
- []
-
-)) (arquitectura4+1/arquitectura4+1.tex [11
+(requerimientos/secciones/noFuncionales.tex))
+(arquitectura4+1/arquitectura4+1.tex [11
 
 ]
 Cap\'{\i }tulo 4.
@@ -391,20 +414,20 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 4498 strings out of 474485
- 81883 string characters out of 5743734
- 1937542 words of memory out of 5000000
- 26665 multiletter control sequences out of 15000+600000
+ 4669 strings out of 474485
+ 84381 string characters out of 5743734
+ 1941542 words of memory out of 5000000
+ 26829 multiletter control sequences out of 15000+600000
  563281 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,9n,65p,622b,382s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,65p,622b,382s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmbx12.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmr12.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/type1/pu
 blic/amsfonts/cm/cmr17.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/
 type1/public/amsfonts/cm/cmsl12.pfb>
 Output written on "proyecto1-nombreProyecto-6NV6-Ambientes virtuales.pdf" (17 p
-ages, 113977 bytes).
+ages, 116070 bytes).
 PDF statistics:
  78 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
