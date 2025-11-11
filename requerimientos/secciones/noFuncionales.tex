@@ -1,46 +1,76 @@
 \section{No funcionales}
 \vspace{-0.5em}
-\begin{table}[H]
 	\centering
-	\caption{Requerimientos no funcionales del sistema}
-	\label{tab:requerimientos_nofuncionales}
 	\begin{longtable}{|p{3cm}|p{10cm}|}
+	\caption{Requerimientos no funcionales del sistema}
+	\label{tab:requerimientos_nofuncionales} \\
 		\hline
-		\textbf{RNF001} & \textbf{} \\
+		\textbf{RNF-US-01} & \textbf{Intuitivo} \\
 		\hline
-		\textbf{Descripción:} & . \\
+		\textbf{Descripción:} & La interfaz de usuario debe ser minimalista e intuitiva. Un usuario nuevo (ej. un estudiante de primer ingreso) debe ser capaz de encontrar la ruta a un salón en menos de 30 segundos desde que abre la aplicación por primera vez. \\
 		\hline
-		\textbf{RNF002} & \textbf{} \\
+		\textbf{RNF-US-02} & \textbf{Accesibilidad} \\
 		\hline
-		\textbf{Descripción:} & . \\
+		\textbf{Descripción:} & La aplicación debe cumplir con pautas básicas de accesibilidad (ej. WCAG 2.1 Nivel AA), incluyendo texto de alto contraste, tamaño de fuente ajustable y compatibilidad con lectores de pantalla (como VoiceOver o TalkBack) para guiar a usuarios con debilidad visual. \\
 		\hline
-		\textbf{RNF003} & \textbf{} \\
+		\textbf{RNF-US-03} & \textbf{Sobrecarga Cognitiva} \\
 		\hline
-		\textbf{Descripción:} & . \\
+		\textbf{Descripción:} & La superposición de Realidad Aumentada (AR) no debe ser intrusiva. Solo mostrará la información esencial (ej. flechas de dirección, nombre del salón de destino) para evitar saturar al usuario. \\
 		\hline
-		\textbf{RNF004} & \textbf{} \\
+		\textbf{RNF-RE-01} & \textbf{Tiempo de Carga} \\
 		\hline
-		\textbf{Descripción:} & . \\
+		\textbf{Descripción:} & La aplicación debe iniciarse y estar lista para usarse (mostrando la cámara AR o el mapa) en menos de 4 segundos con una conexión de datos estándar (4G). \\
 		\hline
-		\textbf{RNF005} & \textbf{} \\
+		\textbf{RNF-RE-02} & \textbf{Latencia de AR} \\
 		\hline
-		\textbf{Descripción:} & . \\
+		\textbf{Descripción:} & La latencia entre el movimiento físico del usuario y la actualización de la superposición de AR (ej. la flecha de navegación) debe ser imperceptible, manteniéndose por debajo de los 60 milisegundos (ms). \\
 		\hline
-		\textbf{RNF006} & \textbf{} \\
+		\textbf{RNF-RE-03} & \textbf{Búsqueda Rápida} \\
 		\hline
-		\textbf{Descripción:} & . \\
+		\textbf{Descripción:} & Las consultas de información (búsqueda de un profesor, un aula o un horario) deben devolver resultados en menos de 2 segundos. \\
 		\hline
-		\textbf{RNF007} & \textbf{} \\
+		\textbf{RNF-RE-04} & \textbf{Consumo de Batería} \\
 		\hline
-		\textbf{Descripción:} & . \\
+		\textbf{Descripción:} & La aplicación debe optimizarse para no consumir más del 20\% de la batería del dispositivo durante 30 minutos de uso continuo (ej. un recorrido largo por el campus). \\
 		\hline
-		\textbf{RNF008} & \textbf{} \\
+		\textbf{RNF-FI-01} & \textbf{Precisión de Ubicación} \\
 		\hline
-		\textbf{Descripción:} & . \\
+		\textbf{Descripción:} & El sistema de localización (ya sea GPS para exteriores o beacons/Wi-Fi para interiores) debe tener una precisión de +/- 3 metros para ser funcional. \\
 		\hline
-		\textbf{RNF009} & \textbf{} \\
+		\textbf{RNF-FI-02} & \textbf{Modo Offline} \\
 		\hline
-		\textbf{Descripción:} & . \\
+		\textbf{Descripción:} & La aplicación debe tener un modo de funcionamiento básico sin conexión a internet. El usuario debe poder descargar el mapa del campus y los datos de su horario para consultarlos offline. La navegación AR podría desactivarse, pero un mapa 2D seguiría funcionando. \\
+		\hline
+		\textbf{RNF-FI-03} & \textbf{Disponibilidad del Servicio} \\
+		\hline
+		\textbf{Descripción:} & Los servicios de backend (que almacenan los horarios, mapas, etc.) deben tener una disponibilidad del 99.5\% durante el horario escolar (ej. 7:00 AM a 10:00 PM, lunes a sábado). \\
+		\hline
+		\textbf{RNF-CO-01} & \textbf{Sistemas Operativos} \\
+		\hline
+		\textbf{Descripción:} & La aplicación debe ser compatible con dispositivos iOS (versión 15.0 o superior) y Android (versión 9.0 o superior). \\
+		\hline
+		\textbf{RNF-CO-02} & \textbf{Hardware AR} \\
+		\hline
+		\textbf{Descripción:} & La funcionalidad de Realidad Aumentada debe ser compatible con todos los dispositivos que soporten ARKit (Apple) y ARCore (Google). \\
+		\hline
+		\textbf{RNF-CO-03} & \textbf{Fallback para dispositivos no compatibles} \\
+		\hline
+		\textbf{Descripción:} & Para dispositivos que no soporten ARCore o ARKit, la aplicación debe ofrecer un modo alternativo de navegación funcional usando un mapa 2D o 3D interactivo. \\
+		\hline
+		\textbf{RNF-MA-01} & \textbf{Actualización de Datos} \\
+		\hline
+		\textbf{Descripción:} & La información (horarios, ubicación de cubículos, aulas) cambia cada semestre. Esta información debe poder actualizarse desde un panel de administración web por personal no técnico (ej. servicios escolares) sin necesidad de lanzar una nueva versión de la aplicación en las tiendas. \\
+		\hline
+		\textbf{RNF-MA-02} & \textbf{Sincronización} \\
+		\hline
+		\textbf{Descripción:} & La aplicación móvil debe verificar si hay actualizaciones de datos (mapas, horarios) cada vez que se inicia con conexión a internet. \\
+		\hline
+		\textbf{RNF-SE-01} & \textbf{Datos en Tránsito} \\
+		\hline
+		\textbf{Descripción:} & Toda la comunicación entre la aplicación móvil y los servidores backend debe estar cifrada mediante SSL/TLS. \\
+		\hline
+		\textbf{RNF-SE-02} & \textbf{Privacidad de Datos} \\
+		\hline
+		\textbf{Descripción:} & Si la aplicación maneja horarios personales de estudiantes, el acceso debe estar protegido por el sistema de autenticación de la universidad (ej. LDAP, OAuth2). Los datos de ubicación del usuario no deben ser almacenados ni compartidos. \\
 		\hline
 	\end{longtable}
-\end{table}

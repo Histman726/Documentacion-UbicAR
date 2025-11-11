@@ -86,10 +86,10 @@
 \contentsline {chapter}{\numberline {3}Requerimientos}{26}{}%
 \contentsline {section}{\numberline {3.1}Funcionales}{26}{}%
 \contentsline {section}{\numberline {3.2}No funcionales}{27}{}%
-\contentsline {chapter}{\numberline {4}Arquitectura 4+1}{28}{}%
-\contentsline {section}{\numberline {4.1}Vista de escenarios}{28}{}%
-\contentsline {section}{\numberline {4.2}Vista de procesos}{28}{}%
-\contentsline {section}{\numberline {4.3}Vista lógica}{28}{}%
-\contentsline {section}{\numberline {4.4}Vista física}{28}{}%
-\contentsline {section}{\numberline {4.5}Vista de despliegue}{28}{}%
-\contentsline {section}{\numberline {4.6}Vista de datos}{28}{}%
+\contentsline {chapter}{\numberline {4}Arquitectura 4+1}{29}{}%
+\contentsline {section}{\numberline {4.1}Vista de escenarios}{29}{}%
+\contentsline {section}{\numberline {4.2}Vista de procesos}{29}{}%
+\contentsline {section}{\numberline {4.3}Vista lógica}{29}{}%
+\contentsline {section}{\numberline {4.4}Vista física}{29}{}%
+\contentsline {section}{\numberline {4.5}Vista de despliegue}{29}{}%
+\contentsline {section}{\numberline {4.6}Vista de datos}{29}{}%

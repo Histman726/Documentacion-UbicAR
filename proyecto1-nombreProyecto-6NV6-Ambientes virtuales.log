@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.8)  8 NOV 2025 23:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.11.11)  11 NOV 2025 16:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -6,9 +6,9 @@ entering extended mode
 (proyecto1-nombreProyecto-6NV6-Ambientes virtuales.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
 Document Class: report 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count187
@@ -24,33 +24,26 @@ File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
 )
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2025/08/03 v25.12 The multilingual framework for LuaLaTeX, pdfLa
-TeX and XeLaTeX
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/01/07 v24.1 The Babel package
 \babel@savecnt=\count196
 \U@D=\dimen141
 \l@unhyphenated=\language79
 
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count197
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
 df
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
-
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel
--spanish.tex
-Package babel Info: Importing font and identification data for spanish
-(babel)             from babel-es.ini. Reported on input line 12.
-)
 \es@quottoks=\toks17
 \es@quotdepth=\count198
 Package babel Info: Making " an active character on input line 570.
@@ -58,57 +51,62 @@ Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
 ))
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel
+-spanish.tex
+Package babel Info: Importing font and identification data for spanish
+(babel)             from babel-es.ini. Reported on input line 11.
+)
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks18
 )
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
 fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen142
 \Gin@req@width=\dimen143
-) (C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+) (C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks19
 \inpenc@posthook=\toks20
 )
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
 )
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count199
-)) (C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
+)) (C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
 y
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count266
@@ -124,11 +122,11 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutvoffset=\dimen151
 \Gm@dimlist=\toks21
 
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
 
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen152
 \ar@mcellbox=\box51
@@ -146,7 +144,7 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \TX@cols=\count269
 \TX@ftn=\toks23
 )
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count270
 \float@exts=\toks24
@@ -154,7 +152,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks25
 \@floatcapt=\box54
 )
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
 \LTleft=\skip52
 \LTright=\skip53
@@ -173,7 +171,7 @@ Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
 \c@LT@chunks=\count275
 \LT@p@ftn=\toks26
 )
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count276
@@ -181,8 +179,6 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 ) (proyecto1-nombreProyecto-6NV6-Ambientes virtuales.aux (portada.aux)
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
-Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 9.
 
 (resumen.aux))
 \openout1 = `"proyecto1-nombreProyecto-6NV6-Ambientes virtuales.aux"'.
@@ -204,7 +200,7 @@ LaTeX Font Info:    ... okay on input line 21.
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
 
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count277
@@ -219,13 +215,13 @@ ii
 \makeMPintoPDFobject=\count282
 \everyMPtoPDFconversion=\toks28
 )
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
@@ -282,7 +278,7 @@ LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <16> not available
 [1
 
 
-{C:/Users/monic/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./imagenes/u
+{C:/Users/mauri/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./imagenes/u
 piicsa-ipn.jpeg>])
 \openout2 = `resumen.aux'.
 
@@ -310,8 +306,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 LaTeX Info: Redefining \. on input line 33.
 LaTeX Info: Redefining \% on input line 33.
-Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 33.
  [2]
 (proyecto1-nombreProyecto-6NV6-Ambientes virtuales.lof
 LaTeX Info: Redefining \. on input line 1.
@@ -383,7 +377,7 @@ Overfull \hbox (0.28822pt too wide) in paragraph at lines 42--45
 ti-li-za pa-ra crear ex-pe-rien-cias de apren-
  []
 
-(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/tools\.tex
+(C:\Users\mauri\AppData\Local\Programs\MiKTeX\tex/latex/tools\.tex
 File ignored)) (marcoTeorico/secciones/IPN.tex
 LaTeX Info: Redefining \. on input line 10.
 LaTeX Info: Redefining \% on input line 10.
@@ -528,19 +522,22 @@ LaTeX Info: Redefining \% on input line 1.
  [25]
 Cap\'{\i }tulo 3.
 (requerimientos/secciones/funcionales.tex)
-(requerimientos/secciones/noFuncionales.tex))
-(arquitectura4+1/arquitectura4+1.tex [26
+(requerimientos/secciones/noFuncionales.tex [26
 
 ]
+LaTeX Info: Redefining \. on input line 77.
+LaTeX Info: Redefining \% on input line 77.
+ [27]))
+(arquitectura4+1/arquitectura4+1.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [27]
+ [28]
 Cap\'{\i }tulo 4.
 (arquitectura4+1/secciones/escenarios.tex)
 (arquitectura4+1/secciones/procesos.tex) (arquitectura4+1/secciones/logica.tex)
 (arquitectura4+1/secciones/fisica.tex)
 (arquitectura4+1/secciones/despliegue.tex) (arquitectura4+1/secciones/datos.tex
-)) [28
+)) [29
 
 ] (proyecto1-nombreProyecto-6NV6-Ambientes virtuales.aux (portada.aux)
 LaTeX Info: Redefining \. on input line 9.
@@ -558,24 +555,24 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 4766 strings out of 474485
- 88699 string characters out of 5743734
- 1948542 words of memory out of 5000000
- 26896 multiletter control sequences out of 15000+600000
+ 4736 strings out of 474486
+ 87926 string characters out of 5743754
+ 1960542 words of memory out of 5000000
+ 26865 multiletter control sequences out of 15000+600000
  563965 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,66p,633b,432s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\monic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1200.pk><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmbx12.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmr17.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/monic/AppData/Local/Program
+ 57i,11n,66p,633b,430s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\mauri\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1200.pk><C:/Users/mauri/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb><C:/Users/mauri/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmr12.pfb><C:/Users/mauri/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr17.pfb><C:/Users/mauri/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/mauri/AppData/Local/Program
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "proyecto1-nombreProyecto-6NV6-Ambientes virtuales.pdf" (34 p
-ages, 170463 bytes).
+Output written on "proyecto1-nombreProyecto-6NV6-Ambientes virtuales.pdf" (35 p
+ages, 175771 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
+ 146 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
