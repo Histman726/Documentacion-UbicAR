@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.8)  11 NOV 2025 16:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.8)  12 NOV 2025 15:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -173,10 +173,41 @@ Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
 \c@LT@chunks=\count275
 \LT@p@ftn=\toks26
 )
+(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen160
+\captionmargin=\dimen161
+\caption@leftmargin=\dimen162
+\caption@rightmargin=\dimen163
+\caption@width=\dimen164
+\caption@indent=\dimen165
+\caption@parindent=\dimen166
+\caption@hangindent=\dimen167
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count276
+\c@continuedfloat=\count277
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+(C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+))
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count278
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count279
+)
 (C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count276
+\l__color_backend_stack_int=\count280
 \l__pdf_internal_box=\box60
 ) (proyecto1-nombreProyecto-6NV6-Ambientes virtuales.aux (portada.aux)
 LaTeX Info: Redefining \. on input line 9.
@@ -187,36 +218,36 @@ Package babel Info: 'spanish' activates 'spanish' shorthands.
 (resumen.aux))
 \openout1 = `"proyecto1-nombreProyecto-6NV6-Ambientes virtuales.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Info: Redefining \. on input line 21.
-LaTeX Info: Redefining \% on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
 
 (C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count277
-\scratchdimen=\dimen160
+\scratchcounter=\count281
+\scratchdimen=\dimen168
 \scratchbox=\box61
-\nofMPsegments=\count278
-\nofMParguments=\count279
+\nofMPsegments=\count282
+\nofMParguments=\count283
 \everyMPshowfont=\toks27
-\MPscratchCnt=\count280
-\MPscratchDim=\dimen161
-\MPnumerator=\count281
-\makeMPintoPDFobject=\count282
+\MPscratchCnt=\count284
+\MPscratchDim=\dimen169
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
 \everyMPtoPDFconversion=\toks28
 )
 (C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -263,6 +294,8 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 \openout2 = `portada.aux'.
 
 (portada.tex
@@ -308,10 +341,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `"proyecto1-nombreProyecto-6NV6-Ambientes virtuales.toc"'.
 
-LaTeX Info: Redefining \. on input line 33.
-LaTeX Info: Redefining \% on input line 33.
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 33.
+(babel)             Reported on input line 36.
  [2]
 (proyecto1-nombreProyecto-6NV6-Ambientes virtuales.lof
 LaTeX Info: Redefining \. on input line 1.
@@ -347,75 +380,157 @@ LaTeX Info: Redefining \% on input line 31.
 LaTeX Info: Redefining \. on input line 65.
 LaTeX Info: Redefining \% on input line 65.
  [3])
-(introduccion/secciones/solucionPropuesta.tex)) (marcoTeorico/marcoTeorico.tex
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
+(introduccion/secciones/solucionPropuesta.tex)
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+ [4]
+<imagenes/1.jpg, id=38, 451.6875pt x 299.1175pt>
+File: imagenes/1.jpg Graphic file (type jpg)
+<use imagenes/1.jpg>
+Package pdftex.def Info: imagenes/1.jpg  used on input line 16.
+(pdftex.def)             Requested size: 256.07741pt x 169.59047pt.
 
-[4]
+
+LaTeX Warning: File `logo-ubicar.png' not found on input line 24.
+
+
+! Package pdftex.def Error: File `logo-ubicar.png' not found: using draft setti
+ng.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 ...ics[width=0.30\textwidth]{logo-ubicar.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<imagenes/mapa-upiicsa.jpg, id=39, 1003.75pt x 552.0625pt>
+File: imagenes/mapa-upiicsa.jpg Graphic file (type jpg)
+<use imagenes/mapa-upiicsa.jpg>
+Package pdftex.def Info: imagenes/mapa-upiicsa.jpg  used on input line 33.
+(pdftex.def)             Requested size: 384.1096pt x 211.26009pt.
+LaTeX Info: Redefining \. on input line 37.
+LaTeX Info: Redefining \% on input line 37.
+[5 <./imagenes/1.jpg>]) (marcoTeorico/marcoTeorico.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [5]
+ [6 <./imagenes/mapa-upiicsa.jpg>]
 Cap\'{\i }tulo 2.
-(marcoTeorico/secciones/unity.tex [6
+(marcoTeorico/secciones/unity.tex
+<imagenes/Unity logo.png, id=47, 1284.8pt x 722.7pt>
+File: imagenes/Unity logo.png Graphic file (type png)
+<use imagenes/Unity logo.png>
+Package pdftex.def Info: imagenes/Unity logo.png  used on input line 9.
+(pdftex.def)             Requested size: 256.07741pt x 144.0412pt.
+ [7
 
-]) (marcoTeorico/secciones/vuforia.tex
-LaTeX Info: Redefining \. on input line 21.
-LaTeX Info: Redefining \% on input line 21.
-
-[7]) (marcoTeorico/secciones/realidadAumentada.tex
-LaTeX Info: Redefining \. on input line 15.
-LaTeX Info: Redefining \% on input line 15.
+ <./imagenes/Unity logo.png>])
+(marcoTeorico/secciones/vuforia.tex
+<imagenes/Vuforia concepto.jpg, id=54, 1284.8pt x 722.7pt>
+File: imagenes/Vuforia concepto.jpg Graphic file (type jpg)
+<use imagenes/Vuforia concepto.jpg>
+Package pdftex.def Info: imagenes/Vuforia concepto.jpg  used on input line 6.
+(pdftex.def)             Requested size: 256.07741pt x 144.0412pt.
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
  [8]
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
+ [9 <./imagenes/Vuforia concepto.jpg>])
+(marcoTeorico/secciones/realidadAumentada.tex
+Overfull \hbox (1.00005pt too wide) in paragraph at lines 7--9
+[]\OT1/cmr/m/n/12 La reali-dad au-men-ta-da pue-de im-ple-men-tar-se a trav^^Se
+s de dis-po-si-ti-vos co-mo smartpho-
+ []
+
+<imagenes/Realidad Aumentada.jpg, id=61, 1284.8pt x 722.7pt>
+File: imagenes/Realidad Aumentada.jpg Graphic file (type jpg)
+<use imagenes/Realidad Aumentada.jpg>
+Package pdftex.def Info: imagenes/Realidad Aumentada.jpg  used on input line 12
+.
+(pdftex.def)             Requested size: 256.07741pt x 144.0412pt.
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+[10 <./imagenes/Realidad Aumentada.jpg>]
+<imagenes/Evolucion de AR.png, id=65, 963.6pt x 542.025pt>
+File: imagenes/Evolucion de AR.png Graphic file (type png)
+<use imagenes/Evolucion de AR.png>
+Package pdftex.def Info: imagenes/Evolucion de AR.png  used on input line 27.
+(pdftex.def)             Requested size: 256.07741pt x 144.0412pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--35
+LaTeX Info: Redefining \. on input line 46.
+LaTeX Info: Redefining \% on input line 46.
+[11 <./imagenes/Evolucion de AR.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 46--53
 
  []
 
-LaTeX Info: Redefining \. on input line 35.
-LaTeX Info: Redefining \% on input line 35.
-[9]
-Overfull \hbox (0.28822pt too wide) in paragraph at lines 42--45
+<imagenes/marcadores QR.jpg, id=70, 770.88pt x 426.84468pt>
+File: imagenes/marcadores QR.jpg Graphic file (type jpg)
+<use imagenes/marcadores QR.jpg>
+Package pdftex.def Info: imagenes/marcadores QR.jpg  used on input line 57.
+(pdftex.def)             Requested size: 192.0548pt x 106.33966pt.
+<imagenes/world tracking.jpg, id=71, 475.7775pt x 262.9825pt>
+File: imagenes/world tracking.jpg Graphic file (type jpg)
+<use imagenes/world tracking.jpg>
+Package pdftex.def Info: imagenes/world tracking.jpg  used on input line 62.
+(pdftex.def)             Requested size: 192.0548pt x 106.1582pt.
+<imagenes/face tracking.jpg, id=72, 475.7775pt x 262.9825pt>
+File: imagenes/face tracking.jpg Graphic file (type jpg)
+<use imagenes/face tracking.jpg>
+Package pdftex.def Info: imagenes/face tracking.jpg  used on input line 67.
+(pdftex.def)             Requested size: 192.0548pt x 106.1582pt.
+<imagenes/body tracking.jpg, id=73, 475.7775pt x 281.05pt>
+File: imagenes/body tracking.jpg Graphic file (type jpg)
+<use imagenes/body tracking.jpg>
+Package pdftex.def Info: imagenes/body tracking.jpg  used on input line 72.
+(pdftex.def)             Requested size: 192.0548pt x 113.45152pt.
+
+Overfull \hbox (0.28822pt too wide) in paragraph at lines 87--90
 []\OT1/cmr/bx/n/12 Educaci^^Son: \OT1/cmr/m/n/12 La reali-dad au-men-ta-da se u
 ti-li-za pa-ra crear ex-pe-rien-cias de apren-
  []
 
+LaTeX Info: Redefining \. on input line 90.
+LaTeX Info: Redefining \% on input line 90.
+[12 <./imagenes/marcadores QR.jpg> <./imagenes/world tracking.jpg> <./imagenes/
+face tracking.jpg> <./imagenes/body tracking.jpg>]
 (C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/tools\.tex
 File ignored)) (marcoTeorico/secciones/IPN.tex
-LaTeX Info: Redefining \. on input line 10.
-LaTeX Info: Redefining \% on input line 10.
- [10]
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+ [13]
 Overfull \hbox (5.26529pt too wide) in paragraph at lines 35--36
 []\OT1/cmr/m/n/12 Escuela Su-pe-rior de Co-mer-cio y Ad-mi-nis-tra-ci^^Son (ES-
 CA), uni-da-des San-to Tom^^Sas
  []
 
-LaTeX Info: Redefining \. on input line 38.
-LaTeX Info: Redefining \% on input line 38.
-[11]
-LaTeX Info: Redefining \. on input line 68.
-LaTeX Info: Redefining \% on input line 68.
- [12]) (marcoTeorico/secciones/Upiicsa.tex
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+[14]
+LaTeX Info: Redefining \. on input line 81.
+LaTeX Info: Redefining \% on input line 81.
+ [15]) (marcoTeorico/secciones/Upiicsa.tex
 (marcoTeorico/secciones/escuela/Edificios.tex
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
- [13]
-LaTeX Info: Redefining \. on input line 62.
-LaTeX Info: Redefining \% on input line 62.
- [14])
-(marcoTeorico/secciones/escuela/Carreras.tex
-LaTeX Info: Redefining \. on input line 25.
-LaTeX Info: Redefining \% on input line 25.
- [15]
-LaTeX Info: Redefining \. on input line 59.
-LaTeX Info: Redefining \% on input line 59.
+LaTeX Info: Redefining \. on input line 30.
+LaTeX Info: Redefining \% on input line 30.
  [16]
-LaTeX Info: Redefining \. on input line 93.
-LaTeX Info: Redefining \% on input line 93.
- [17]
+LaTeX Info: Redefining \. on input line 74.
+LaTeX Info: Redefining \% on input line 74.
+ [17])
+(marcoTeorico/secciones/escuela/Carreras.tex
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
+ [18]
+LaTeX Info: Redefining \. on input line 69.
+LaTeX Info: Redefining \% on input line 69.
+ [19]
 Underfull \hbox (badness 5652) in paragraph at lines 140--140
 []|\OT1/cmr/m/n/12 Ingenier^^S^^Pa en Sis-te-mas
  []
@@ -430,13 +545,15 @@ Underfull \hbox (badness 4518) in paragraph at lines 140--140
 []|\OT1/cmr/m/n/12 Doctorado en Cien-cias
  []
 
-) (marcoTeorico/secciones/escuela/Celex.tex
-LaTeX Info: Redefining \. on input line 4.
-LaTeX Info: Redefining \% on input line 4.
- [18]
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
- [19]
+LaTeX Info: Redefining \. on input line 141.
+LaTeX Info: Redefining \% on input line 141.
+[20]) (marcoTeorico/secciones/escuela/Celex.tex
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
+ [21]
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+ [22]
 Underfull \hbox (badness 3701) in paragraph at lines 72--72
 []|\OT1/cmr/m/n/12 TOEFL, IELTS, Cam-
  []
@@ -452,16 +569,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--72
  []
 
 ) (marcoTeorico/secciones/escuela/Actividades culturales y deportivas.tex
-LaTeX Info: Redefining \. on input line 4.
-LaTeX Info: Redefining \% on input line 4.
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
 
-[20]
-LaTeX Info: Redefining \. on input line 36.
-LaTeX Info: Redefining \% on input line 36.
- [21]) (marcoTeorico/secciones/escuela/Servicios estudiantiles.tex
-LaTeX Info: Redefining \. on input line 5.
-LaTeX Info: Redefining \% on input line 5.
- [22]
+[23]
+LaTeX Info: Redefining \. on input line 54.
+LaTeX Info: Redefining \% on input line 54.
+ [24]) (marcoTeorico/secciones/escuela/Servicios estudiantiles.tex
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+ [25]
 Underfull \hbox (badness 2735) in paragraph at lines 57--57
 \OT1/cmr/m/n/12 co y di-gi-tal, pr^^Sesta-mo
  []
@@ -516,34 +633,35 @@ Underfull \hbox (badness 2368) in paragraph at lines 57--57
 \OT1/cmr/m/n/12 emo-cio-nal y vo-ca-cio-nal
  []
 
-LaTeX Info: Redefining \. on input line 58.
-LaTeX Info: Redefining \% on input line 58.
-[23]) (marcoTeorico/secciones/escuela/Rutas de evacuacion.tex
-LaTeX Info: Redefining \. on input line 16.
-LaTeX Info: Redefining \% on input line 16.
- [24])))
+) (marcoTeorico/secciones/escuela/Rutas de evacuacion.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [26]
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+ [27])))
 (requerimientos/requerimientos.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [25]
+ [28]
 Cap\'{\i }tulo 3.
 (requerimientos/secciones/funcionales.tex)
-(requerimientos/secciones/noFuncionales.tex [26
+(requerimientos/secciones/noFuncionales.tex [29
 
 ]
 LaTeX Info: Redefining \. on input line 76.
 LaTeX Info: Redefining \% on input line 76.
- [27]))
+ [30]))
 (arquitectura4+1/arquitectura4+1.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [28]
+ [31]
 Cap\'{\i }tulo 4.
 (arquitectura4+1/secciones/escenarios.tex)
 (arquitectura4+1/secciones/procesos.tex) (arquitectura4+1/secciones/logica.tex)
 (arquitectura4+1/secciones/fisica.tex)
 (arquitectura4+1/secciones/despliegue.tex) (arquitectura4+1/secciones/datos.tex
-)) [29
+)) [32
 
 ] (proyecto1-nombreProyecto-6NV6-Ambientes virtuales.aux (portada.aux)
 LaTeX Info: Redefining \. on input line 9.
@@ -559,26 +677,31 @@ L3 programming layer <2024-01-04>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 4766 strings out of 474485
- 88699 string characters out of 5743734
+ 6420 strings out of 474485
+ 121944 string characters out of 5743734
  1960542 words of memory out of 5000000
- 26896 multiletter control sequences out of 15000+600000
- 563965 words of font info for 55 fonts, out of 8000000 for 9000
+ 28537 multiletter control sequences out of 15000+600000
+ 564434 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,66p,633b,432s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 67i,11n,77p,677b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\monic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1200.pk><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx12.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmr17.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/monic/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "proyecto1-nombreProyecto-6NV6-Ambientes virtuales.pdf" (35 p
-ages, 175750 bytes).
+ic/amsfonts/cm/cmr10.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr12.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/monic/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/monic/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/monic/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on "proyecto1-nombreProyecto-6NV6-Ambientes virtuales.pdf" (38 p
+ages, 3592393 bytes).
 PDF statistics:
- 146 PDF objects out of 1000 (max. 8388607)
+ 181 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
