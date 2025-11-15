@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.8)  12 NOV 2025 15:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.8)  14 NOV 2025 22:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -374,138 +374,176 @@ Cap\'{\i }tulo 1.
 
 
 ]
-LaTeX Info: Redefining \. on input line 31.
-LaTeX Info: Redefining \% on input line 31.
- [2]
-LaTeX Info: Redefining \. on input line 65.
-LaTeX Info: Redefining \% on input line 65.
- [3])
+<imagenes/ARway.png, id=29, 1003.75pt x 1003.75pt>
+File: imagenes/ARway.png Graphic file (type png)
+<use imagenes/ARway.png>
+Package pdftex.def Info: imagenes/ARway.png  used on input line 16.
+(pdftex.def)             Requested size: 192.0548pt x 192.04697pt.
+<imagenes/navigine.png, id=30, 485.815pt x 365.365pt>
+File: imagenes/navigine.png Graphic file (type png)
+<use imagenes/navigine.png>
+Package pdftex.def Info: imagenes/navigine.png  used on input line 21.
+(pdftex.def)             Requested size: 192.0548pt x 144.43745pt.
+<imagenes/navBuddy.jpg, id=32, 301.125pt x 200.75pt>
+File: imagenes/navBuddy.jpg Graphic file (type jpg)
+<use imagenes/navBuddy.jpg>
+Package pdftex.def Info: imagenes/navBuddy.jpg  used on input line 26.
+(pdftex.def)             Requested size: 192.0548pt x 128.0415pt.
+LaTeX Info: Redefining \. on input line 37.
+LaTeX Info: Redefining \% on input line 37.
+ [2 <./imagenes/ARway.png> <./imagenes/navigine.png> <./imagenes/navBuddy.jpg (
+PNG copy)>]
+LaTeX Info: Redefining \. on input line 52.
+LaTeX Info: Redefining \% on input line 52.
+ [3]
+LaTeX Info: Redefining \. on input line 86.
+LaTeX Info: Redefining \% on input line 86.
+ [4])
 (introduccion/secciones/solucionPropuesta.tex)
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
- [4]
-<imagenes/1.jpg, id=38, 451.6875pt x 299.1175pt>
+ [5]
+<imagenes/1.jpg, id=48, 451.6875pt x 299.1175pt>
 File: imagenes/1.jpg Graphic file (type jpg)
 <use imagenes/1.jpg>
 Package pdftex.def Info: imagenes/1.jpg  used on input line 16.
 (pdftex.def)             Requested size: 256.07741pt x 169.59047pt.
-
-
-LaTeX Warning: File `logo-ubicar.png' not found on input line 24.
-
-
-! Package pdftex.def Error: File `logo-ubicar.png' not found: using draft setti
-ng.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 ...ics[width=0.30\textwidth]{logo-ubicar.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-<imagenes/mapa-upiicsa.jpg, id=39, 1003.75pt x 552.0625pt>
+<imagenes/logo 2.jpg, id=49, 1027.84pt x 1027.84pt>
+File: imagenes/logo 2.jpg Graphic file (type jpg)
+<use imagenes/logo 2.jpg>
+Package pdftex.def Info: imagenes/logo 2.jpg  used on input line 23.
+(pdftex.def)             Requested size: 128.0387pt x 128.02486pt.
+<imagenes/mapa-upiicsa.jpg, id=50, 1003.75pt x 552.0625pt>
 File: imagenes/mapa-upiicsa.jpg Graphic file (type jpg)
 <use imagenes/mapa-upiicsa.jpg>
 Package pdftex.def Info: imagenes/mapa-upiicsa.jpg  used on input line 33.
 (pdftex.def)             Requested size: 384.1096pt x 211.26009pt.
 LaTeX Info: Redefining \. on input line 37.
 LaTeX Info: Redefining \% on input line 37.
-[5 <./imagenes/1.jpg>]) (marcoTeorico/marcoTeorico.tex
+ [6 <./imagenes/1.jpg> <./imagenes/logo 2.jpg>]) (marcoTeorico/marcoTeorico.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [6 <./imagenes/mapa-upiicsa.jpg>]
+ [7 <./imagenes/mapa-upiicsa.jpg>]
 Cap\'{\i }tulo 2.
-(marcoTeorico/secciones/unity.tex
-<imagenes/Unity logo.png, id=47, 1284.8pt x 722.7pt>
+<imagenes/tecnologias.png, id=58, 260.172pt x 119.9682pt>
+File: imagenes/tecnologias.png Graphic file (type png)
+<use imagenes/tecnologias.png>
+Package pdftex.def Info: imagenes/tecnologias.png  used on input line 8.
+(pdftex.def)             Requested size: 384.1096pt x 177.12727pt.
+<imagenes/flujo-localizacion.jpg, id=59, 803.0pt x 451.6875pt>
+File: imagenes/flujo-localizacion.jpg Graphic file (type jpg)
+<use imagenes/flujo-localizacion.jpg>
+Package pdftex.def Info: imagenes/flujo-localizacion.jpg  used on input line 15
+.
+(pdftex.def)             Requested size: 384.1096pt x 216.06317pt.
+[8
+
+ <./imagenes/tecnologias.png>]
+<imagenes/ejemplo-ar.png, id=63, 462.72874pt x 329.23pt>
+File: imagenes/ejemplo-ar.png Graphic file (type png)
+<use imagenes/ejemplo-ar.png>
+Package pdftex.def Info: imagenes/ejemplo-ar.png  used on input line 22.
+(pdftex.def)             Requested size: 384.1096pt x 273.29599pt.
+ (marcoTeorico/secciones/unity.tex
+<imagenes/Unity logo.png, id=64, 1284.8pt x 722.7pt>
 File: imagenes/Unity logo.png Graphic file (type png)
 <use imagenes/Unity logo.png>
 Package pdftex.def Info: imagenes/Unity logo.png  used on input line 9.
 (pdftex.def)             Requested size: 256.07741pt x 144.0412pt.
- [7
-
- <./imagenes/Unity logo.png>])
-(marcoTeorico/secciones/vuforia.tex
-<imagenes/Vuforia concepto.jpg, id=54, 1284.8pt x 722.7pt>
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+ [9 <./imagenes/flujo-localizacion.jpg> <./imagenes/ejemplo-ar.png (PNG copy)>]
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+ [10 <./imagenes/Unity logo.png>]) (marcoTeorico/secciones/vuforia.tex
+<imagenes/Vuforia concepto.jpg, id=72, 1284.8pt x 722.7pt>
 File: imagenes/Vuforia concepto.jpg Graphic file (type jpg)
 <use imagenes/Vuforia concepto.jpg>
 Package pdftex.def Info: imagenes/Vuforia concepto.jpg  used on input line 6.
 (pdftex.def)             Requested size: 256.07741pt x 144.0412pt.
-LaTeX Info: Redefining \. on input line 10.
-LaTeX Info: Redefining \% on input line 10.
- [8]
-LaTeX Info: Redefining \. on input line 40.
-LaTeX Info: Redefining \% on input line 40.
- [9 <./imagenes/Vuforia concepto.jpg>])
-(marcoTeorico/secciones/realidadAumentada.tex
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+ [11 <./imagenes/Vuforia concepto.jpg>]) (marcoTeorico/secciones/realidadAument
+ada.tex
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+ [12]
 Overfull \hbox (1.00005pt too wide) in paragraph at lines 7--9
 []\OT1/cmr/m/n/12 La reali-dad au-men-ta-da pue-de im-ple-men-tar-se a trav^^Se
 s de dis-po-si-ti-vos co-mo smartpho-
  []
 
-<imagenes/Realidad Aumentada.jpg, id=61, 1284.8pt x 722.7pt>
+<imagenes/Realidad Aumentada.jpg, id=79, 1284.8pt x 722.7pt>
 File: imagenes/Realidad Aumentada.jpg Graphic file (type jpg)
 <use imagenes/Realidad Aumentada.jpg>
 Package pdftex.def Info: imagenes/Realidad Aumentada.jpg  used on input line 12
 .
 (pdftex.def)             Requested size: 256.07741pt x 144.0412pt.
-LaTeX Info: Redefining \. on input line 24.
-LaTeX Info: Redefining \% on input line 24.
-[10 <./imagenes/Realidad Aumentada.jpg>]
-<imagenes/Evolucion de AR.png, id=65, 963.6pt x 542.025pt>
+<imagenes/Evolucion de AR.png, id=80, 963.6pt x 542.025pt>
 File: imagenes/Evolucion de AR.png Graphic file (type png)
 <use imagenes/Evolucion de AR.png>
 Package pdftex.def Info: imagenes/Evolucion de AR.png  used on input line 27.
 (pdftex.def)             Requested size: 256.07741pt x 144.0412pt.
+LaTeX Info: Redefining \. on input line 37.
+LaTeX Info: Redefining \% on input line 37.
+[13 <./imagenes/Realidad Aumentada.jpg> <./imagenes/Evolucion de AR.png>]
+<imagenes/elementos AR.png, id=86, 1541.76pt x 1027.84pt>
+File: imagenes/elementos AR.png Graphic file (type png)
+<use imagenes/elementos AR.png>
+Package pdftex.def Info: imagenes/elementos AR.png  used on input line 45.
+(pdftex.def)             Requested size: 213.39568pt x 142.24985pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
 
  []
 
-LaTeX Info: Redefining \. on input line 46.
-LaTeX Info: Redefining \% on input line 46.
-[11 <./imagenes/Evolucion de AR.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 46--53
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--60
 
  []
 
-<imagenes/marcadores QR.jpg, id=70, 770.88pt x 426.84468pt>
+<imagenes/marcadores QR.jpg, id=87, 770.88pt x 426.84468pt>
 File: imagenes/marcadores QR.jpg Graphic file (type jpg)
 <use imagenes/marcadores QR.jpg>
-Package pdftex.def Info: imagenes/marcadores QR.jpg  used on input line 57.
+Package pdftex.def Info: imagenes/marcadores QR.jpg  used on input line 64.
 (pdftex.def)             Requested size: 192.0548pt x 106.33966pt.
-<imagenes/world tracking.jpg, id=71, 475.7775pt x 262.9825pt>
+<imagenes/world tracking.jpg, id=88, 475.7775pt x 262.9825pt>
 File: imagenes/world tracking.jpg Graphic file (type jpg)
 <use imagenes/world tracking.jpg>
-Package pdftex.def Info: imagenes/world tracking.jpg  used on input line 62.
+Package pdftex.def Info: imagenes/world tracking.jpg  used on input line 69.
 (pdftex.def)             Requested size: 192.0548pt x 106.1582pt.
-<imagenes/face tracking.jpg, id=72, 475.7775pt x 262.9825pt>
+<imagenes/face tracking.jpg, id=89, 475.7775pt x 262.9825pt>
 File: imagenes/face tracking.jpg Graphic file (type jpg)
 <use imagenes/face tracking.jpg>
-Package pdftex.def Info: imagenes/face tracking.jpg  used on input line 67.
+Package pdftex.def Info: imagenes/face tracking.jpg  used on input line 74.
 (pdftex.def)             Requested size: 192.0548pt x 106.1582pt.
-<imagenes/body tracking.jpg, id=73, 475.7775pt x 281.05pt>
+<imagenes/body tracking.jpg, id=90, 475.7775pt x 281.05pt>
 File: imagenes/body tracking.jpg Graphic file (type jpg)
 <use imagenes/body tracking.jpg>
-Package pdftex.def Info: imagenes/body tracking.jpg  used on input line 72.
+Package pdftex.def Info: imagenes/body tracking.jpg  used on input line 79.
 (pdftex.def)             Requested size: 192.0548pt x 113.45152pt.
-
-Overfull \hbox (0.28822pt too wide) in paragraph at lines 87--90
+LaTeX Info: Redefining \. on input line 86.
+LaTeX Info: Redefining \% on input line 86.
+[14 <./imagenes/elementos AR.png (PNG copy)>]
+Overfull \hbox (0.28822pt too wide) in paragraph at lines 95--98
 []\OT1/cmr/bx/n/12 Educaci^^Son: \OT1/cmr/m/n/12 La reali-dad au-men-ta-da se u
 ti-li-za pa-ra crear ex-pe-rien-cias de apren-
  []
 
-LaTeX Info: Redefining \. on input line 90.
-LaTeX Info: Redefining \% on input line 90.
-[12 <./imagenes/marcadores QR.jpg> <./imagenes/world tracking.jpg> <./imagenes/
+<imagenes/juegos AR.jpg, id=94, 2007.5pt x 1337.99875pt>
+File: imagenes/juegos AR.jpg Graphic file (type jpg)
+<use imagenes/juegos AR.jpg>
+Package pdftex.def Info: imagenes/juegos AR.jpg  used on input line 108.
+(pdftex.def)             Requested size: 213.39568pt x 142.21918pt.
+LaTeX Info: Redefining \. on input line 112.
+LaTeX Info: Redefining \% on input line 112.
+[15 <./imagenes/marcadores QR.jpg> <./imagenes/world tracking.jpg> <./imagenes/
 face tracking.jpg> <./imagenes/body tracking.jpg>]
 (C:\Users\monic\AppData\Local\Programs\MiKTeX\tex/latex/tools\.tex
 File ignored)) (marcoTeorico/secciones/IPN.tex
 LaTeX Info: Redefining \. on input line 20.
 LaTeX Info: Redefining \% on input line 20.
- [13]
+ [16 <./imagenes/juegos AR.jpg>]
 Overfull \hbox (5.26529pt too wide) in paragraph at lines 35--36
 []\OT1/cmr/m/n/12 Escuela Su-pe-rior de Co-mer-cio y Ad-mi-nis-tra-ci^^Son (ES-
 CA), uni-da-des San-to Tom^^Sas
@@ -513,24 +551,32 @@ CA), uni-da-des San-to Tom^^Sas
 
 LaTeX Info: Redefining \. on input line 48.
 LaTeX Info: Redefining \% on input line 48.
-[14]
+[17]
 LaTeX Info: Redefining \. on input line 81.
 LaTeX Info: Redefining \% on input line 81.
- [15]) (marcoTeorico/secciones/Upiicsa.tex
+ [18]) (marcoTeorico/secciones/Upiicsa.tex
+File: imagenes/mapa-upiicsa.jpg Graphic file (type jpg)
+<use imagenes/mapa-upiicsa.jpg>
+Package pdftex.def Info: imagenes/mapa-upiicsa.jpg  used on input line 6.
+(pdftex.def)             Requested size: 384.1096pt x 211.26009pt.
+
 (marcoTeorico/secciones/escuela/Edificios.tex
-LaTeX Info: Redefining \. on input line 30.
-LaTeX Info: Redefining \% on input line 30.
- [16]
-LaTeX Info: Redefining \. on input line 74.
-LaTeX Info: Redefining \% on input line 74.
- [17])
-(marcoTeorico/secciones/escuela/Carreras.tex
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
- [18]
-LaTeX Info: Redefining \. on input line 69.
-LaTeX Info: Redefining \% on input line 69.
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
  [19]
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+ [20])
+(marcoTeorico/secciones/escuela/Carreras.tex
+LaTeX Info: Redefining \. on input line 24.
+LaTeX Info: Redefining \% on input line 24.
+ [21]
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
+ [22]
+LaTeX Info: Redefining \. on input line 93.
+LaTeX Info: Redefining \% on input line 93.
+ [23]
 Underfull \hbox (badness 5652) in paragraph at lines 140--140
 []|\OT1/cmr/m/n/12 Ingenier^^S^^Pa en Sis-te-mas
  []
@@ -545,15 +591,13 @@ Underfull \hbox (badness 4518) in paragraph at lines 140--140
 []|\OT1/cmr/m/n/12 Doctorado en Cien-cias
  []
 
-LaTeX Info: Redefining \. on input line 141.
-LaTeX Info: Redefining \% on input line 141.
-[20]) (marcoTeorico/secciones/escuela/Celex.tex
-LaTeX Info: Redefining \. on input line 12.
-LaTeX Info: Redefining \% on input line 12.
- [21]
-LaTeX Info: Redefining \. on input line 48.
-LaTeX Info: Redefining \% on input line 48.
- [22]
+) (marcoTeorico/secciones/escuela/Celex.tex
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+ [24]
+LaTeX Info: Redefining \. on input line 34.
+LaTeX Info: Redefining \% on input line 34.
+ [25]
 Underfull \hbox (badness 3701) in paragraph at lines 72--72
 []|\OT1/cmr/m/n/12 TOEFL, IELTS, Cam-
  []
@@ -569,16 +613,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--72
  []
 
 ) (marcoTeorico/secciones/escuela/Actividades culturales y deportivas.tex
-LaTeX Info: Redefining \. on input line 16.
-LaTeX Info: Redefining \% on input line 16.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
 
-[23]
-LaTeX Info: Redefining \. on input line 54.
-LaTeX Info: Redefining \% on input line 54.
- [24]) (marcoTeorico/secciones/escuela/Servicios estudiantiles.tex
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
- [25]
+[26]
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
+ [27]) (marcoTeorico/secciones/escuela/Servicios estudiantiles.tex
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+ [28]
 Underfull \hbox (badness 2735) in paragraph at lines 57--57
 \OT1/cmr/m/n/12 co y di-gi-tal, pr^^Sesta-mo
  []
@@ -633,35 +677,34 @@ Underfull \hbox (badness 2368) in paragraph at lines 57--57
 \OT1/cmr/m/n/12 emo-cio-nal y vo-ca-cio-nal
  []
 
-) (marcoTeorico/secciones/escuela/Rutas de evacuacion.tex
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
- [26]
-LaTeX Info: Redefining \. on input line 17.
-LaTeX Info: Redefining \% on input line 17.
- [27])))
+LaTeX Info: Redefining \. on input line 58.
+LaTeX Info: Redefining \% on input line 58.
+[29]) (marcoTeorico/secciones/escuela/Rutas de evacuacion.tex
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ [30])))
 (requerimientos/requerimientos.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [28]
+ [31]
 Cap\'{\i }tulo 3.
 (requerimientos/secciones/funcionales.tex)
-(requerimientos/secciones/noFuncionales.tex [29
+(requerimientos/secciones/noFuncionales.tex [32
 
 ]
 LaTeX Info: Redefining \. on input line 76.
 LaTeX Info: Redefining \% on input line 76.
- [30]))
+ [33]))
 (arquitectura4+1/arquitectura4+1.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [31]
+ [34]
 Cap\'{\i }tulo 4.
 (arquitectura4+1/secciones/escenarios.tex)
 (arquitectura4+1/secciones/procesos.tex) (arquitectura4+1/secciones/logica.tex)
 (arquitectura4+1/secciones/fisica.tex)
 (arquitectura4+1/secciones/despliegue.tex) (arquitectura4+1/secciones/datos.tex
-)) [32
+)) [35
 
 ] (proyecto1-nombreProyecto-6NV6-Ambientes virtuales.aux (portada.aux)
 LaTeX Info: Redefining \. on input line 9.
@@ -677,18 +720,15 @@ L3 programming layer <2024-01-04>
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 6420 strings out of 474485
- 121944 string characters out of 5743734
+ 6492 strings out of 474485
+ 123748 string characters out of 5743734
  1960542 words of memory out of 5000000
- 28537 multiletter control sequences out of 15000+600000
- 564434 words of font info for 57 fonts, out of 8000000 for 9000
+ 28610 multiletter control sequences out of 15000+600000
+ 564265 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 67i,11n,77p,677b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 67i,11n,77p,677b,536s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\monic\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1200.pk><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx12.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/type1/publ
@@ -696,12 +736,11 @@ ic/amsfonts/cm/cmr10.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmr12.pfb><C:/Users/monic/AppData/Local/Programs/MiKTeX/
 fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/monic/AppData/Local/Programs
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/monic/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/monic/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "proyecto1-nombreProyecto-6NV6-Ambientes virtuales.pdf" (38 p
-ages, 3592393 bytes).
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "proyecto1-nombreProyecto-6NV6-Ambientes virtuales.pdf" (41 p
+ages, 7001401 bytes).
 PDF statistics:
- 181 PDF objects out of 1000 (max. 8388607)
+ 196 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -4,93 +4,93 @@
 \contentsline {section}{\numberline {1.2}Problemática}{1}{}%
 \contentsline {section}{\numberline {1.3}Trabajo previo}{2}{}%
 \contentsline {subsection}{\numberline {1.3.1}Productos comerciales / soluciones de mercado}{2}{}%
-\contentsline {subsection}{\numberline {1.3.2}Tesis / trabajos académicos}{2}{}%
-\contentsline {subsection}{\numberline {1.3.3}Artículos / revisiones científicas}{3}{}%
-\contentsline {subsection}{\numberline {1.3.4}Implicaciones para UbicAR}{3}{}%
-\contentsline {section}{\numberline {1.4}Solución propuesta}{4}{}%
-\contentsline {subsection}{\numberline {1.4.1}Diferencias respecto al trabajo previo}{4}{}%
-\contentsline {subsection}{\numberline {1.4.2}Conclusión}{5}{}%
-\contentsline {section}{\numberline {1.5}Introducción}{5}{}%
-\contentsline {chapter}{\numberline {2}Marco teórico}{7}{}%
-\contentsline {section}{\numberline {2.1}Unity}{7}{}%
-\contentsline {subsection}{\numberline {2.1.1}Ventajas de usar Unity para AR}{7}{}%
-\contentsline {subsection}{\numberline {2.1.2}Limitaciones de Unity para AR}{8}{}%
-\contentsline {section}{\numberline {2.2}Vuforia}{8}{}%
-\contentsline {subsection}{\numberline {2.2.1}Funcionalidades}{9}{}%
-\contentsline {subsection}{\numberline {2.2.2}Comparación con otros SDKs}{10}{}%
-\contentsline {section}{\numberline {2.3}Realidad aumentada}{10}{}%
-\contentsline {subsection}{\numberline {2.3.1}Evolución de la realidad aumentada}{11}{}%
-\contentsline {subsection}{\numberline {2.3.2}Elementos de la realidad aumentada}{11}{}%
-\contentsline {subsection}{\numberline {2.3.3}Tipos de realidad aumentada}{12}{}%
-\contentsline {subsection}{\numberline {2.3.4}Casos de uso}{12}{}%
-\contentsline {section}{\numberline {2.4}Instituto Politécnico Nacional}{13}{}%
-\contentsline {subsection}{\numberline {2.4.1}Historia y propósito}{13}{}%
-\contentsline {subsection}{\numberline {2.4.2}Misión}{13}{}%
-\contentsline {subsection}{\numberline {2.4.3}Visión}{13}{}%
-\contentsline {subsection}{\numberline {2.4.4}Estructura académica}{14}{}%
-\contentsline {subsection}{\numberline {2.4.5}Planteles de Nivel Superior}{14}{}%
-\contentsline {subsection}{\numberline {2.4.6}Valores institucionales}{15}{}%
-\contentsline {subsection}{\numberline {2.4.7}Reconocimiento y aportaciones}{15}{}%
-\contentsline {subsection}{\numberline {2.4.8}Símbolos institucionales}{16}{}%
-\contentsline {section}{\numberline {2.5}UPIICSA}{16}{}%
-\contentsline {subsection}{\numberline {2.5.1}Edificios}{16}{}%
-\contentsline {subsubsection}{Gobierno}{16}{}%
-\contentsline {subsubsection}{Laboratorios pesados}{16}{}%
-\contentsline {subsubsection}{Laboratorios ligeros}{17}{}%
-\contentsline {subsubsection}{Básicas}{17}{}%
-\contentsline {subsubsection}{Ingeniería}{17}{}%
-\contentsline {subsubsection}{Culturales}{17}{}%
-\contentsline {subsection}{\numberline {2.5.2}Carreras}{18}{}%
-\contentsline {subsubsection}{Carreras del área de Ingeniería}{18}{}%
-\contentsline {subsubsection}{Ingeniería en Informática}{18}{}%
-\contentsline {subsubsection}{Ingeniería Industrial}{18}{}%
-\contentsline {subsubsection}{Ingeniería en Transporte}{18}{}%
-\contentsline {subsubsection}{Ingeniería en Sistemas Automotrices}{18}{}%
-\contentsline {subsubsection}{Carreras del área de Ciencias Sociales y Administrativas}{19}{}%
-\contentsline {subsubsection}{Licenciatura en Administración Industrial}{19}{}%
-\contentsline {subsubsection}{Licenciatura en Ciencias de la Informática}{19}{}%
-\contentsline {subsubsection}{Licenciatura en Relaciones Comerciales}{19}{}%
-\contentsline {subsection}{\numberline {2.5.3}Programas de Posgrado}{19}{}%
-\contentsline {subsubsection}{Maestría en Ciencias en Administración Industrial}{19}{}%
-\contentsline {subsubsection}{Maestría en Ciencias en Ingeniería Industrial}{20}{}%
-\contentsline {subsubsection}{Maestría en Ciencias en Ingeniería de Sistemas}{20}{}%
-\contentsline {subsubsection}{Doctorado en Ciencias en Ingeniería Industrial}{20}{}%
-\contentsline {subsubsection}{Doctorado en Ciencias Administrativas}{20}{}%
-\contentsline {subsection}{\numberline {2.5.4}Resumen general}{21}{}%
-\contentsline {section}{\numberline {2.6}CELEX UPIICSA}{21}{}%
-\contentsline {subsection}{\numberline {2.6.1}Objetivo}{21}{}%
-\contentsline {subsection}{\numberline {2.6.2}Idiomas que ofrece}{22}{}%
-\contentsline {subsection}{\numberline {2.6.3}Estructura de niveles}{22}{}%
-\contentsline {subsection}{\numberline {2.6.4}Modalidades de estudio}{22}{}%
-\contentsline {subsection}{\numberline {2.6.5}Certificaciones y acreditaciones}{22}{}%
-\contentsline {subsection}{\numberline {2.6.6}Importancia dentro de la UPIICSA}{23}{}%
-\contentsline {section}{\numberline {2.7}Actividades culturales y deportivas}{23}{}%
-\contentsline {subsection}{\numberline {2.7.1}Objetivo}{23}{}%
-\contentsline {subsection}{\numberline {2.7.2}Actividades culturales}{23}{}%
-\contentsline {subsection}{\numberline {2.7.3}Actividades deportivas}{24}{}%
-\contentsline {subsection}{\numberline {2.7.4}Instalaciones}{24}{}%
-\contentsline {subsection}{\numberline {2.7.5}Importancia}{24}{}%
-\contentsline {subsection}{\numberline {2.7.6}Resumen de actividades}{25}{}%
-\contentsline {section}{\numberline {2.8}Servicios estudiantiles}{25}{}%
-\contentsline {subsection}{\numberline {2.8.1}Objetivo}{25}{}%
-\contentsline {subsection}{\numberline {2.8.2}Principales servicios}{25}{}%
-\contentsline {subsubsection}{Biblioteca}{25}{}%
-\contentsline {subsubsection}{Becas}{25}{}%
-\contentsline {subsubsection}{Tutorías académicas}{26}{}%
-\contentsline {subsubsection}{Laboratorios y centros de cómputo}{26}{}%
-\contentsline {subsubsection}{Servicio médico}{26}{}%
-\contentsline {subsubsection}{Orientación psicológica y vocacional}{26}{}%
-\contentsline {subsection}{\numberline {2.8.3}Resumen de servicios estudiantiles}{26}{}%
-\contentsline {section}{\numberline {2.9}Rutas de evacuación en UPIICSA}{27}{}%
-\contentsline {subsection}{\numberline {2.9.1}Zonas seguras y puntos de reunión}{27}{}%
-\contentsline {subsection}{\numberline {2.9.2}Recomendaciones generales de evacuación}{28}{}%
-\contentsline {chapter}{\numberline {3}Requerimientos}{29}{}%
-\contentsline {section}{\numberline {3.1}Funcionales}{29}{}%
-\contentsline {section}{\numberline {3.2}No funcionales}{30}{}%
-\contentsline {chapter}{\numberline {4}Arquitectura 4+1}{32}{}%
-\contentsline {section}{\numberline {4.1}Vista de escenarios}{32}{}%
-\contentsline {section}{\numberline {4.2}Vista de procesos}{32}{}%
-\contentsline {section}{\numberline {4.3}Vista lógica}{32}{}%
-\contentsline {section}{\numberline {4.4}Vista física}{32}{}%
-\contentsline {section}{\numberline {4.5}Vista de despliegue}{32}{}%
-\contentsline {section}{\numberline {4.6}Vista de datos}{32}{}%
+\contentsline {subsection}{\numberline {1.3.2}Tesis / trabajos académicos}{3}{}%
+\contentsline {subsection}{\numberline {1.3.3}Artículos / revisiones científicas}{4}{}%
+\contentsline {subsection}{\numberline {1.3.4}Implicaciones para UbicAR}{4}{}%
+\contentsline {section}{\numberline {1.4}Solución propuesta}{5}{}%
+\contentsline {subsection}{\numberline {1.4.1}Diferencias respecto al trabajo previo}{5}{}%
+\contentsline {subsection}{\numberline {1.4.2}Conclusión}{6}{}%
+\contentsline {section}{\numberline {1.5}Introducción}{6}{}%
+\contentsline {chapter}{\numberline {2}Marco teórico}{8}{}%
+\contentsline {section}{\numberline {2.1}Unity}{9}{}%
+\contentsline {subsection}{\numberline {2.1.1}Ventajas de usar Unity para AR}{10}{}%
+\contentsline {subsection}{\numberline {2.1.2}Limitaciones de Unity para AR}{10}{}%
+\contentsline {section}{\numberline {2.2}Vuforia}{11}{}%
+\contentsline {subsection}{\numberline {2.2.1}Funcionalidades}{11}{}%
+\contentsline {subsection}{\numberline {2.2.2}Comparación con otros SDKs}{12}{}%
+\contentsline {section}{\numberline {2.3}Realidad aumentada}{12}{}%
+\contentsline {subsection}{\numberline {2.3.1}Evolución de la realidad aumentada}{13}{}%
+\contentsline {subsection}{\numberline {2.3.2}Elementos de la realidad aumentada}{13}{}%
+\contentsline {subsection}{\numberline {2.3.3}Tipos de realidad aumentada}{14}{}%
+\contentsline {subsection}{\numberline {2.3.4}Casos de uso}{15}{}%
+\contentsline {section}{\numberline {2.4}Instituto Politécnico Nacional}{16}{}%
+\contentsline {subsection}{\numberline {2.4.1}Historia y propósito}{16}{}%
+\contentsline {subsection}{\numberline {2.4.2}Misión}{16}{}%
+\contentsline {subsection}{\numberline {2.4.3}Visión}{16}{}%
+\contentsline {subsection}{\numberline {2.4.4}Estructura académica}{17}{}%
+\contentsline {subsection}{\numberline {2.4.5}Planteles de Nivel Superior}{17}{}%
+\contentsline {subsection}{\numberline {2.4.6}Valores institucionales}{18}{}%
+\contentsline {subsection}{\numberline {2.4.7}Reconocimiento y aportaciones}{18}{}%
+\contentsline {subsection}{\numberline {2.4.8}Símbolos institucionales}{19}{}%
+\contentsline {section}{\numberline {2.5}UPIICSA}{19}{}%
+\contentsline {subsection}{\numberline {2.5.1}Edificios}{19}{}%
+\contentsline {subsubsection}{Gobierno}{19}{}%
+\contentsline {subsubsection}{Laboratorios pesados}{20}{}%
+\contentsline {subsubsection}{Laboratorios ligeros}{20}{}%
+\contentsline {subsubsection}{Básicas}{20}{}%
+\contentsline {subsubsection}{Ingeniería}{20}{}%
+\contentsline {subsubsection}{Culturales}{21}{}%
+\contentsline {subsection}{\numberline {2.5.2}Carreras}{21}{}%
+\contentsline {subsubsection}{Carreras del área de Ingeniería}{21}{}%
+\contentsline {subsubsection}{Ingeniería en Informática}{21}{}%
+\contentsline {subsubsection}{Ingeniería Industrial}{21}{}%
+\contentsline {subsubsection}{Ingeniería en Transporte}{22}{}%
+\contentsline {subsubsection}{Ingeniería en Sistemas Automotrices}{22}{}%
+\contentsline {subsubsection}{Carreras del área de Ciencias Sociales y Administrativas}{22}{}%
+\contentsline {subsubsection}{Licenciatura en Administración Industrial}{22}{}%
+\contentsline {subsubsection}{Licenciatura en Ciencias de la Informática}{22}{}%
+\contentsline {subsubsection}{Licenciatura en Relaciones Comerciales}{23}{}%
+\contentsline {subsection}{\numberline {2.5.3}Programas de Posgrado}{23}{}%
+\contentsline {subsubsection}{Maestría en Ciencias en Administración Industrial}{23}{}%
+\contentsline {subsubsection}{Maestría en Ciencias en Ingeniería Industrial}{23}{}%
+\contentsline {subsubsection}{Maestría en Ciencias en Ingeniería de Sistemas}{23}{}%
+\contentsline {subsubsection}{Doctorado en Ciencias en Ingeniería Industrial}{23}{}%
+\contentsline {subsubsection}{Doctorado en Ciencias Administrativas}{24}{}%
+\contentsline {subsection}{\numberline {2.5.4}Resumen general}{24}{}%
+\contentsline {section}{\numberline {2.6}CELEX UPIICSA}{25}{}%
+\contentsline {subsection}{\numberline {2.6.1}Objetivo}{25}{}%
+\contentsline {subsection}{\numberline {2.6.2}Idiomas que ofrece}{25}{}%
+\contentsline {subsection}{\numberline {2.6.3}Estructura de niveles}{25}{}%
+\contentsline {subsection}{\numberline {2.6.4}Modalidades de estudio}{26}{}%
+\contentsline {subsection}{\numberline {2.6.5}Certificaciones y acreditaciones}{26}{}%
+\contentsline {subsection}{\numberline {2.6.6}Importancia dentro de la UPIICSA}{26}{}%
+\contentsline {section}{\numberline {2.7}Actividades culturales y deportivas}{27}{}%
+\contentsline {subsection}{\numberline {2.7.1}Objetivo}{27}{}%
+\contentsline {subsection}{\numberline {2.7.2}Actividades culturales}{27}{}%
+\contentsline {subsection}{\numberline {2.7.3}Actividades deportivas}{27}{}%
+\contentsline {subsection}{\numberline {2.7.4}Instalaciones}{28}{}%
+\contentsline {subsection}{\numberline {2.7.5}Importancia}{28}{}%
+\contentsline {subsection}{\numberline {2.7.6}Resumen de actividades}{28}{}%
+\contentsline {section}{\numberline {2.8}Servicios estudiantiles}{28}{}%
+\contentsline {subsection}{\numberline {2.8.1}Objetivo}{29}{}%
+\contentsline {subsection}{\numberline {2.8.2}Principales servicios}{29}{}%
+\contentsline {subsubsection}{Biblioteca}{29}{}%
+\contentsline {subsubsection}{Becas}{29}{}%
+\contentsline {subsubsection}{Tutorías académicas}{29}{}%
+\contentsline {subsubsection}{Laboratorios y centros de cómputo}{29}{}%
+\contentsline {subsubsection}{Servicio médico}{29}{}%
+\contentsline {subsubsection}{Orientación psicológica y vocacional}{29}{}%
+\contentsline {subsection}{\numberline {2.8.3}Resumen de servicios estudiantiles}{30}{}%
+\contentsline {section}{\numberline {2.9}Rutas de evacuación en UPIICSA}{30}{}%
+\contentsline {subsection}{\numberline {2.9.1}Zonas seguras y puntos de reunión}{30}{}%
+\contentsline {subsection}{\numberline {2.9.2}Recomendaciones generales de evacuación}{31}{}%
+\contentsline {chapter}{\numberline {3}Requerimientos}{32}{}%
+\contentsline {section}{\numberline {3.1}Funcionales}{32}{}%
+\contentsline {section}{\numberline {3.2}No funcionales}{33}{}%
+\contentsline {chapter}{\numberline {4}Arquitectura 4+1}{35}{}%
+\contentsline {section}{\numberline {4.1}Vista de escenarios}{35}{}%
+\contentsline {section}{\numberline {4.2}Vista de procesos}{35}{}%
+\contentsline {section}{\numberline {4.3}Vista lógica}{35}{}%
+\contentsline {section}{\numberline {4.4}Vista física}{35}{}%
+\contentsline {section}{\numberline {4.5}Vista de despliegue}{35}{}%
+\contentsline {section}{\numberline {4.6}Vista de datos}{35}{}%
