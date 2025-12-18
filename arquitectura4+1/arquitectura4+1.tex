@@ -1,5 +1,21 @@
 \chapter{Arquitectura 4+1}
 
+\begin{flushleft}
+	La \textbf{arquitectura 4+1} es un \textbf{modelo para describir la arquitectura de sistemas de software intensivo utilizando múltiples vistas concurrentes}. Fue propuesto por Philippe Kruchten y organiza la descripción de la arquitectura en \textbf{cinco perspectivas} que responden a las preocupaciones de distintos \textit{stakeholders} (usuarios finales, desarrolladores, ingenieros, gestores, etc.).
+
+\begin{itemize}
+	\item \textbf{Lógica}: describe la estructura funcional y las principales abstracciones del sistema.
+	\item \textbf{Procesos}: muestra el comportamiento en tiempo de ejecución, como concurrencia y sincronización.
+	\item \textbf{Desarrollo}: representa la organización estática del software en el entorno de desarrollo.
+	\item \textbf{Física}: describe la distribución del software sobre el hardware.
+\end{itemize}
+
+La \textbf{``+1''} corresponde a los \textbf{escenarios o casos de uso}, los cuales permiten ilustrar interacciones típicas del sistema y sirven para validar y relacionar las cuatro vistas principales.
+
+En resumen, la arquitectura 4+1 es un \textbf{enfoque basado en vistas} que facilita documentar y comunicar la arquitectura de un sistema desde distintos puntos de vista relevantes para los interesados.
+\end{flushleft}
+
+
 	\input{./arquitectura4+1/secciones/escenarios}
 	\input{./arquitectura4+1/secciones/procesos}
 	\input{./arquitectura4+1/secciones/logica}
