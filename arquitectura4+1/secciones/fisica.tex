@@ -1,2 +1,13 @@
 \section{Vista física}
 
+La vista física describe la infraestructura tecnológica sobre la cual se despliega la solución UbicAR. La arquitectura se distribuye en cuatro nodos principales:
+
+\begin{itemize}
+    \item \textbf{Nodo Smartphone:} Es el núcleo de la experiencia de usuario. No es solo un teléfono; el sistema utiliza la IMU (Inertial Measurement Unit) —acelerómetro y giroscopio— para mantener la estabilidad de los objetos virtuales (flechas, etiquetas) mientras el estudiante camina. La Cámara realiza el rastreo de características visuales del entorno.
+
+    \item \textbf{infraestructura de Red:} Dado que el GPS suele perder precisión dentro de edificios (problema común en universidades), la vista física contempla los Puntos de Acceso Wi-Fi para ayudar a la triangulación de la ubicación del usuario.
+
+    \item \textbf{Servidor de Aplicaciones:} Este nodo procesa la lógica pesada. No solo envía texto; es el encargado de servir los Assets AR (iconos de facultades, modelos 3D de flechas) al dispositivo móvil.
+
+    \item \textbf{Servidor SQL Server:} Es el nodo de persistencia. Aquí se realizan las consultas complejas de horarios y cruces de información entre profesores y aulas.
+\end{itemize}
