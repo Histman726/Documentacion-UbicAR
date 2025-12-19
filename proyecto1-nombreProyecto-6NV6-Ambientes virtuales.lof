@@ -11,12 +11,14 @@
 \contentsline {figure}{\numberline {2.4}{\ignorespaces Proyectos desarrollados en Unity}}{10}{}%
 \contentsline {figure}{\numberline {2.5}{\ignorespaces Plataforma de Vuforia para la Realidad Aumentada}}{11}{}%
 \contentsline {figure}{\numberline {2.6}{\ignorespaces Ejemplo de uso de la AR}}{13}{}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Historia de la realidad aumentada}}{14}{}%
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Elementos AR.}}{14}{}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Historia de la realidad aumentada}}{13}{}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Elementos de la realidad virtual}}{14}{}%
 \contentsline {figure}{\numberline {2.9}{\ignorespaces Tipos de marcadores}}{15}{}%
 \contentsline {figure}{\numberline {2.10}{\ignorespaces Videojuegos AR}}{16}{}%
 \contentsline {figure}{\numberline {2.11}{\ignorespaces Mapa general del campus UPIICSA.}}{19}{}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Vista de escenarios de la aplicación UbicAR}}{37}{}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Diagrama de secuencia del escenario principal de navegación con Realidad Aumentada}}{39}{}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Vista de escenarios de la aplicación UbicAR}}{36}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Diagrama de secuencia del escenario principal de navegación con Realidad Aumentada}}{38}{}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Diagrama de Capas de la Vista Lógica}}{40}{}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Diagrama de despliegue de la Vista Fisica}}{41}{}%
